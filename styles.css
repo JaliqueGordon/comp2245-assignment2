@@ -1,0 +1,88 @@
+.roundimage {
+    border-radius: 200px;
+}
+
+.postdate{
+    font-size: 13px;
+    color: #718096;
+}
+
+aside {
+    float: right;
+    margin: 0 1.5%;
+    width: 30%;
+}
+
+p {
+    font-size: 18px;
+    color: #2D3748;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+
+}
+
+.blog1{
+    float:left;
+    margin: 0 1.5%;
+    width: 30%;
+}
+
+.blog2{
+    float:right;
+    margin: 0 1.5%;
+    width: 25%;
+}
+
+/*
+ .container {
+    display: grid;
+ grid-template-columns: 100px 5fr 2fr;
+ grid-template-rows: 150px 1fr;
+ grid-gap: 20px;
+} 
+*/
+
+.flex_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+h2{
+    font-size: 32px;
+    color: #48BB78;
+}
+
+h3{
+    color: #48BB78;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#aboutname {
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #E2E8F0;
+}
+
+
+header{
+    background-color: #63B3ED;
+    color: #FFFFFF;
+}
+
+.header1{
+    font-size: 36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer{
+    background-color: #2C5282;
+    color: #FFFFFF;
+}
+
+li{
+    color: #4299E1;
+}
